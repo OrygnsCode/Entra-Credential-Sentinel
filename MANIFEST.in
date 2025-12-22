@@ -1,0 +1,13 @@
+include README.md
+include LICENSE
+include .env.example
+include requirements.txt
+
+# Excludes
+global-exclude *.pyc
+global-exclude __pycache__
+global-exclude .DS_Store
+prune .venv
+prune out
+prune out_*
+prune *.egg-info

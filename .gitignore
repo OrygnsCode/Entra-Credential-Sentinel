@@ -1,0 +1,28 @@
+
+# Environment Variables
+.env
+
+# Python compilation
+__pycache__/
+*.pyc
+
+# Testing
+.pytest_cache/
+input_test/
+out_test/
+out_test_csv/
+out_shipcheck*/
+
+# Packaging
+*.egg-info/
+build/
+dist/
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Output
+out/
+out_*/
