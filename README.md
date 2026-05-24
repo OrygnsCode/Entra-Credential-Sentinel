@@ -110,3 +110,7 @@ The tool generates reports in the `out/` directory (or specified via `--output-d
 
 Copyright (c) 2025 OrygnsCode.  
 Licensed under the [MIT License](LICENSE).
+
+---
+
+Built by [Orygn](https://orygn.tech), custom software and security tooling for small businesses and growing teams.
